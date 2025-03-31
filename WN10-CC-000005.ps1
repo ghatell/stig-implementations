@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    This PowerShell script ensures that the camera access from the lock screen is be disabled.
+    This PowerShell script ensures that the camera access from the lock screen is disabled.
 
 .NOTES
     Author          : Soroush Asadi
