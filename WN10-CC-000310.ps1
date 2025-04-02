@@ -4,11 +4,14 @@
 
 .NOTES
     Author          : Soroush Asadi
-    GitHub          : https://github.com/ghatell
     LinkedIn        : https://www.linkedin.com/in/soroush-asadi-881098178/
-    STIG ID         : WN10-CC-000310
-    Date Created    : 2025-03-31
+    GitHub          : https://github.com/ghatell
+    Date Created    : 2025-04-02
+    Last Modified   : 2025-04-02
     Version         : 1.0
+    CVEs            : N/A
+    Plugin IDs      : N/A
+    STIG-ID         : WN10-CC-000310
 
 .TESTED ON
     Date(s) Tested  : 
