@@ -1,0 +1,30 @@
+<#
+.SYNOPSIS
+    Enforces password history to remember the last 24 passwords as required by STIG WN10-AC-000020.
+
+.NOTES
+    Author          : Soroush Asadi
+    LinkedIn        : https://www.linkedin.com/in/soroush-asadi-881098178/
+    GitHub          : https://github.com/ghatell
+    Date Created    : 2025-04-01
+    Last Modified   : 2025-04-01
+    Version         : 1.0
+    CVEs            : N/A
+    Plugin IDs      : N/A
+    STIG-ID         : WN10-AC-000020
+
+.TESTED ON
+    Date(s) Tested  : 
+    Tested By       : 
+    Systems Tested  : 
+    PowerShell Ver. : 5.1
+
+Fix
+
+Configure the policy value for Computer Configuration >> 
+Windows Settings >> 
+Security Settings >> 
+Account Policies >> 
+Password Policy >> 
+"Enforce password history" to "24" passwords remembered.
+
