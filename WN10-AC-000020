@@ -19,6 +19,17 @@
     Systems Tested  : 
     PowerShell Ver. : 5.1
 
+Check
+
+Verify the effective setting in Local Group Policy Editor.
+Run "gpedit.msc".
+Navigate to Local Computer Policy >> 
+Computer Configuration >> 
+Windows Settings >> 
+Security Settings >> 
+Account Policies >> 
+Password Policy.
+
 Fix
 
 Configure the policy value for Computer Configuration >> 
