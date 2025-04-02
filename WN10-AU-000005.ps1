@@ -6,10 +6,18 @@
     Author          : Soroush Asadi
     LinkedIn        : https://www.linkedin.com/in/soroush-asadi-881098178/
     GitHub          : https://github.com/ghatell
-    Date Created    : 2025-03-31
-    Last Modified   : 2025-03-31
+    Date Created    : 2025-04-02
+    Last Modified   : 2025-04-02
     Version         : 1.0
+    CVEs            : N/A
+    Plugin IDs      : N/A
     STIG-ID         : WN10-AU-000005
+
+.TESTED ON
+    Date(s) Tested  : 
+    Tested By       : 
+    Systems Tested  : 
+    PowerShell Ver. : 5.1
 
 .USAGE
     PS C:\Users\cyberSentinel_92\Desktop\WN10-AU-000005.ps1
